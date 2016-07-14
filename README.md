@@ -3,7 +3,7 @@
 
 ### 1. Clone the repository and install with npm
 ```bash
-$ cd my-wordpress-folder/wp-content/themes/
+$ cd my-folder/
 $ git clone https://github.com/IdeaLabDigital/PrototypeStarter.git
 $ cd PrototypeStarter
 $ npm install
